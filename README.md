@@ -1,4 +1,4 @@
-![Cover](cover2.png)
+![Cover](twitter-cover.png)
 
 # Hi there 👋 I'm Mark Munyaka
 
